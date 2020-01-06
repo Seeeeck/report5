@@ -1,5 +1,8 @@
 package jp.ac.uryukyu.ie.e195730;
 
+/**
+ * living thing
+ */
 public class LivingThing {
     private String name;
     private int hitPoint;
